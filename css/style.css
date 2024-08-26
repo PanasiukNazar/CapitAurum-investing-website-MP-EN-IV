@@ -1624,12 +1624,12 @@ figure {
     display: none;
 }
 header i {
-    color: #71b379;
+    color: #bea34d;
     font-size: 32px;
     text-align: center;
 }
 header h2 {
-    color: #71b379;
+    color: #bea34d;
     font-weight: 500;
     text-align: center;
 }
@@ -1637,7 +1637,7 @@ header h2 {
     text-align: center;
 }
 .data p a {
-    color: #71b379;
+    color: #bea34d;
     text-decoration: none;
     text-align: center !important;
 }
@@ -1649,26 +1649,26 @@ header h2 {
     text-align: center;
 }
 .buttons .cookie-button {
-    border: 2px solid #71b379;
+    border: 2px solid #bea34d;
     color: #fff;
     padding: 8px 0;
-    background: #71b379;
+    background: #bea34d;
     cursor: pointer;
     width: calc(100% / 2 - 10px);
     transition: all 0.5s ease;
     max-width: 150px;
-    border-radius: 0px;
+    border-radius: 30px;
 }
 .buttons #acceptBtn:hover {
     background-color: transparent;
-    color: #71b379;
+    color: #bea34d;
 }
 #declineBtn {
     background-color: #fff;
-    color: #71b379;
+    color: #bea34d;
 }
 #declineBtn:hover {
-    background-color: #71b379;
+    background-color: #bea34d;
     color: #fff;
 }
 /* Footer Style */
